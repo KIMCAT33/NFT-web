@@ -8,7 +8,7 @@ module.exports = {
     network_id: "*",       // Any network (default: none)
     },
   },
-  contract_directory: './src/contracts',
+  contracts_directory: './src/contracts',
   contracts_build_directory: './src/abis',
 
 
